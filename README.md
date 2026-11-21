@@ -4,14 +4,6 @@
 
 ### 💻 Software Developer · B.Tech CSE · Full Stack Development
 
-<a href="https://www.linkedin.com/in/anurag-kumar-b01263320">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ak6425438@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -57,6 +49,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases**
@@ -102,23 +95,23 @@ An AI-powered platform connecting remote customer representatives with on-ground
 
 ## 📁 Other Projects
 
-### ☕ [Cafe Nourish](https://cafe-nourish.vercel.app/)
-A cafe website built for JP IT — browse the menu, explore food options, and enjoy a clean responsive experience built with React and Tailwind CSS.
+### ☕ [Cafe Nourish](https://cafe-nourish.vercel.app/) — Cafe Website
+A cafe website with menu browsing and a clean responsive experience built with React and Tailwind CSS.
 
-### ✉️ [EmailPro++](https://github.com/anuraggg27/EmailPro)
-An AI-powered bulk email campaign manager built for JP IT — supports CSV/PDF upload, Gemini AI classification, and campaign analytics.
+### ₿ [Cross Chain Crypto Asset Transfer](https://github.com/anuraggg27/cross_chain_crypto_asset_transfer) — Cross-Chain Crypto Transfer
+A cross-chain cryptocurrency asset transfer application — enables secure asset movement across different blockchain networks using TypeScript and Solidity.
 
-### 📋 [NOVA](https://github.com/anuraggg27/NOVA)
-A full-stack project management platform built for JP IT — task tracking, team collaboration, and project delivery workflows using Node.js and Express.
+### 📈 [Gap Hunter 2](https://github.com/anuraggg27/gap-hunter-2) — Stock Market Gap Analyser
+A stock market gap analysis tool — identifies and tracks price gaps across market sessions using Python and LLM-powered analysis.
 
-### ₿ [Cross Chain Crypto Asset Transfer](https://github.com/anuraggg27/cross_chain_crypto_asset_transfer)
-A cross-chain cryptocurrency asset transfer application built for JP IT — enables secure asset movement across different blockchain networks using TypeScript and Solidity.
+### 📋 [NOVA](https://github.com/anuraggg27/NOVA) — Project Management Platform
+A full-stack project management platform — task tracking, team collaboration, and project delivery workflows using Node.js and Express.
 
-### 🔗 [BlockXAid](https://github.com/anuraggg27/blockXaid)
-A blockchain-based escrow platform built for JP IT — helps NGOs and organizations conduct secure, transparent transactions. Won **Best Debutant Coder** at CSA Hackathon.
+### ✉️ [EmailPro++](https://github.com/anuraggg27/EmailPro) — AI Email Campaign Manager
+An AI-powered bulk email campaign manager — upload CSV/PDF files, classify recipients using Gemini AI, and send targeted campaigns with delivery analytics.
 
-### 📈 [Gap Hunter 2](https://github.com/anuraggg27/gap-hunter-2)
-A stock market gap analysis tool built for JP IT — identifies and tracks price gaps across market sessions using Python and LLM-powered analysis.
+### 🔗 [BlockXAid](https://github.com/anuraggg27/blockXaid) — Blockchain Escrow Platform
+A blockchain-based escrow platform — helps NGOs and organizations conduct secure, transparent transactions on-chain. Won **Best Debutant Coder** at CSA Hackathon.
 
 ---
 
@@ -163,15 +156,15 @@ Worked on the **GoMotto AI** platform — an AI-powered sales and revenue manage
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraggg27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraggg27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggg27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggg27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anuraggg27&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anuraggg27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
