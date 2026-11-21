@@ -27,15 +27,12 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Let's Connect!
 
-<a href="https://www.linkedin.com/in/anurag-kumar-b01263320">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ak6425438@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+- 📧 Email: [ak6425438@gmail.com](mailto:ak6425438@gmail.com)
+- 🌐 LinkedIn: [Anurag Kumar](https://www.linkedin.com/in/anurag-kumar-b01263320)
+- 🎨 Portfolio: In progress — stay tuned!
+- 🌟 Instagram: [anuragg.27_](https://www.instagram.com/anuragg.27_)
 
 ---
 
