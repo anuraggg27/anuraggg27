@@ -27,6 +27,18 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/anurag-kumar-b01263320">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ak6425438@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -177,16 +189,6 @@ Worked on the **GoMotto AI** platform — an AI-powered sales and revenue manage
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/anurag-kumar-b01263320">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ak6425438@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 ---
 
