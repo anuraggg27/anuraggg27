@@ -162,34 +162,9 @@ Worked on the **GoMotto AI** platform — an AI-powered sales and revenue manage
 - 📚 Learning and improving every day
 
 ---
+<img width="414" height="413" alt="Neon Coder’s Animated Build Progress (0 75x)" src="https://github.com/user-attachments/assets/7d2fea84-26bb-4eb5-86bd-963cbf56cdc9" />
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraggg27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraggg27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anuraggg27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraggg27&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
----
-
-<div align="center">
 
 *"Build. Learn. Improve. Repeat."*
 
