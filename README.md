@@ -162,9 +162,12 @@ Worked on the **GoMotto AI** platform — an AI-powered sales and revenue manage
 - 📚 Learning and improving every day
 
 ---
-<img width="414" height="413" alt="Neon Coder’s Animated Build Progress (0 75x)" src="https://github.com/user-attachments/assets/7d2fea84-26bb-4eb5-86bd-963cbf56cdc9" />
 
+<div align="center">
 
+<img width="500" alt="coding" src="https://github.com/user-attachments/assets/7d2fea84-26bb-4eb5-86bd-963cbf56cdc9" />
+
+<br><br>
 
 *"Build. Learn. Improve. Repeat."*
 
