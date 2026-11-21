@@ -98,6 +98,8 @@ An AI-powered platform connecting remote customer representatives with on-ground
 ### ☕ [Cafe Nourish](https://cafe-nourish.vercel.app/) — Cafe Website
 A cafe website with menu browsing and a clean responsive experience built with React and Tailwind CSS.
 
+**[🌐 Live Site](https://cafe-nourish.vercel.app/)**
+
 ### ₿ [Cross Chain Crypto Asset Transfer](https://github.com/anuraggg27/cross_chain_crypto_asset_transfer) — Cross-Chain Crypto Transfer
 A cross-chain cryptocurrency asset transfer application — enables secure asset movement across different blockchain networks using TypeScript and Solidity.
 
