@@ -85,7 +85,7 @@
 
 A university-focused marketplace platform where students can buy, sell, and discover products within their university community. Built with a full-stack architecture covering REST APIs, authentication, and database management.
 
-**[🌐 Live Site](https://uni.rocks/marketplace)**
+**[🌐 Live Site](https://uni.rocks/marketplace)** &nbsp;|&nbsp; **[📂 Repository](https://github.com/anuraggg27/uni-market)**
 
 ---
 
